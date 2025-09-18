@@ -80,6 +80,10 @@
       <p class="section-title">Mi nombre:</p>
       <p class="name">Juan Jose Vargas</p>
     </div>
+     <div class="section">
+      <p class="section-title">Procedencia:</p>
+      <p class="name">Soy de Bucramanga y tengo 1 hermana mayor</p>
+    </div>
 
    
     </div>
