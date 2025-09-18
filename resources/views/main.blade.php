@@ -92,6 +92,10 @@
       <p class="section-title">Mi adolescencia:</p>
       <p class="name">En mi adolescencia jugue mucho fortite y lol</p>
     </div>
+        <div class="section">
+      <p class="section-title">A qué me dedico:</p>
+      <p class="name">Ahora estudio ingeniería de sistemas y paso mucho tiempo con mi novia</p>
+    </div>
 
 
    
