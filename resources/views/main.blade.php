@@ -96,6 +96,10 @@
       <p class="section-title">A qué me dedico:</p>
       <p class="name">Ahora estudio ingeniería de sistemas y paso mucho tiempo con mi novia</p>
     </div>
+        <div class="section">
+      <p class="section-title">Mis metas:</p>
+      <p class="name">Graduarme y ser Heroico en free fire</p>
+    </div>
 
 
    
