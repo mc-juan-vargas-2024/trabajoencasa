@@ -104,6 +104,7 @@
       <p class="section-title">Mis habilidades:</p>
       <p class="name">• Logica de programacion</p>
       <p class="name">• Trabajo en equipo</p>
+      <p class="name">• Manejo total de ChatGPT</p>
      
     </div>
 
