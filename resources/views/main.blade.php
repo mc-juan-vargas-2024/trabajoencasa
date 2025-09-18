@@ -100,6 +100,10 @@
       <p class="section-title">Mis metas:</p>
       <p class="name">Graduarme y ser Heroico en free fire</p>
     </div>
+        <div class="section">
+      <p class="section-title">Mis estudios:</p>
+      <p class="name">Estudie transición en la ronda</p>
+
 
 
    
