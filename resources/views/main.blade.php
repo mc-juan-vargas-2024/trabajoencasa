@@ -88,6 +88,10 @@
       <p class="section-title">Mi niñez:</p>
       <p class="name">Crecí en Bucaramanga jugando futbol y fortnite</p>
     </div>
+        <div class="section">
+      <p class="section-title">Mi adolescencia:</p>
+      <p class="name">En mi adolescencia jugue mucho fortite y lol</p>
+    </div>
 
 
    
