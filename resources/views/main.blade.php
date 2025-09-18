@@ -100,7 +100,11 @@
       <p class="section-title">Mis metas:</p>
       <p class="name">Graduarme y ser Heroico en free fire</p>
     </div>
-
+        <div class="section">
+      <p class="section-title">Mis habilidades:</p>
+      <p class="name">• Logica de programacion</p>
+     
+    </div>
 
    
     </div>
