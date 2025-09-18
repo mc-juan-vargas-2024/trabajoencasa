@@ -84,6 +84,11 @@
       <p class="section-title">Procedencia:</p>
       <p class="name">Soy de Bucramanga y tengo 1 hermana mayor</p>
     </div>
+        <div class="section">
+      <p class="section-title">Mi niñez:</p>
+      <p class="name">Crecí en Bucaramanga jugando futbol y fortnite</p>
+    </div>
+
 
    
     </div>
