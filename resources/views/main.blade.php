@@ -103,6 +103,7 @@
         <div class="section">
       <p class="section-title">Mis estudios:</p>
       <p class="name">Estudie transición en la ronda</p>
+      <p class="name">Estudie secundaria en la merced</p>
 
 
 
