@@ -100,15 +100,21 @@
       <p class="section-title">Mis metas:</p>
       <p class="name">Graduarme y ser Heroico en free fire</p>
     </div>
-        <div class="section">
+    <div class="section">
       <p class="section-title">Mis experiencias laborales:</p>
       <p class="name">• No tengo todavia</p>
       <p class="name">• No tengo todavia</p>
       <p class="name">• No tengo todavia</p>
-      
      
     </div>
+    <div class="section">
+      <p class="section-title">Mis estudios:</p>
+      <p class="name">Estudie transición en la ronda</p>
+      <p class="name">Estudie secundaria en la merced</p>
+      <p class="name">Estudio ingenieria de sistemas en la UNAB</p>
 
+    </div>
+    <div class="section">
       <p class="section-title">Mis habilidades:</p>
       <p class="name">• Logica de programacion</p>
       <p class="name">• Trabajo en equipo</p>
