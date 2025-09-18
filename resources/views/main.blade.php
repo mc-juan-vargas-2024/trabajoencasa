@@ -104,6 +104,7 @@
       <p class="section-title">Mis estudios:</p>
       <p class="name">Estudie transición en la ronda</p>
       <p class="name">Estudie secundaria en la merced</p>
+      <p class="name">Estudio ingenieria de sistemas en la UNAB</p>
 
 
 
