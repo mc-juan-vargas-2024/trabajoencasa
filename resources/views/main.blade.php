@@ -103,6 +103,7 @@
         <div class="section">
       <p class="section-title">Mis habilidades:</p>
       <p class="name">• Logica de programacion</p>
+      <p class="name">• Trabajo en equipo</p>
      
     </div>
 
